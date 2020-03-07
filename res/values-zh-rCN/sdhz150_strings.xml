@@ -27,4 +27,5 @@
   <string name="status_bar_date_string_edittext_summary">请输入字符串</string>
   <string name="menu_save">保存</string>
   <string name="menu_cancel">取消</string>
+  <string name="shake_clean_notification">通知栏通知晃动清理</string>
 </resources>

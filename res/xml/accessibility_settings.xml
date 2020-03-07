@@ -173,4 +173,16 @@
                 android:icon="@drawable/ic_color_inversion"
                 settings:controller="com.android.settings.accessibility.ColorInversionPreferenceController"/>
     </PreferenceCategory>
+
+    <PreferenceCategory
+        android:key="status_shake_clean"
+        android:title="@string/shake_clean_notification">
+
+    <com.android.settings.arrow.preferences.SystemSettingSwitchPreference
+	 	android:key="shake_clean_notification"
+	 	android:title="@string/shake_clean_notification"
+	 	android:defaultValue="true" />
+
+    </PreferenceCategory>
+
 </PreferenceScreen>

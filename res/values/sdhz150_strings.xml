@@ -27,4 +27,5 @@
   <string name="status_bar_date_string_edittext_summary">Enter string</string>
   <string name="menu_save">Save</string>
   <string name="menu_cancel">Discard</string>
+  <string name="shake_clean_notification">Notification bar notification shaking cleaning</string>
 </resources>
